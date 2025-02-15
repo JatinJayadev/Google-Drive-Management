@@ -1,0 +1,14 @@
+{
+  "name": "dm1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "googleapis": "^144.0.0",
+    "nodemon": "^3.1.9"
+  }
+}
